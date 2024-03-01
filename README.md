@@ -19,7 +19,7 @@ To get the Quiz App running on your local machine, follow these simple steps:
 1. **Clone the Repository**
 
    ```
-   git clone https://github.com/yourusername/quiz-app.git
+   git clone https://github.com/Abdulmuin1/Quiz-App
    cd quiz-app
    ```
 
